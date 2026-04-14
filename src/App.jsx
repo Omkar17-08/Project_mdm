@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
-import Home from "./home";
+import Home from "./Home";
 import Events from "./Events";
 import About from "./About";
 import "./App.css";
